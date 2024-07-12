@@ -34,6 +34,10 @@ A full list of all TryHackMe rooms in the learning paths
       * [Software Security](#software-security)
       * [Managing Incidents](#managing-incidents)
     * [CompTIA Pentest+](#comptia-pentest)
+      * [Planning and Scoping](#planning-and-scoping)
+      * [Tools and Code Analysis](#tools-and-code-analysis)
+      * [Information Gathering and Vulnerability Scanning](#information-gathering-and-vulnerability-scanning)
+      * [Attacks and Exploits](#attacks-and-exploits)
     * [Complete Beginner](#complete-beginner)
     * [Web Fundamentals](#web-fundamentals)
   * [Intermediate](#intermediate)
@@ -278,6 +282,52 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### CompTIA Pentest+
+
+##### Planning and Scoping
+
+|Room Name|Free|
+|-|-|
+|[Pentesting Fundamentals](https://tryhackme.com/jr/pentestingfundamentals)|✔️|
+|[Red Team Engagements](https://tryhackme.com/jr/redteamengagements)|✔️|
+|[Governance & Regulation](https://tryhackme.com/jr/cybergovernanceregulation)|✔️|
+
+##### Tools and Code Analysis
+
+|Room Name|Free|
+|-|-|
+|[Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro)|✔️|
+|[Wireshark: The Basics](https://tryhackme.com/jr/wiresharkthebasics)|✔️|
+|[Burp Suite: The Basics](https://tryhackme.com/jr/burpsuitebasicsold)|✔️|
+|[Hydra](https://tryhackme.com/jr/hydra)|✔️|
+|[Python Basics](https://tryhackme.com/jr/pythonbasics)|✔️|
+|[Python for Pentesters](https://tryhackme.com/jr/pythonforcybersecurity)|❌|
+
+##### Information Gathering and Vulnerability Scanning
+
+|Room Name|Free|
+|-|-|
+|[Passive Reconnaissance](https://tryhackme.com/jr/passiverecon)|✔️|
+|[Active Reconnaissance](https://tryhackme.com/jr/activerecon)|✔️|
+|[Nmap Live Host Discovery](https://tryhackme.com/jr/nmap01)|✔️|
+|[Nmap Basic Port Scans](https://tryhackme.com/jr/nmap02)|❌|
+|[Nmap Advanced Port Scans](https://tryhackme.com/jr/nmap03)|❌|
+
+##### Attacks and Exploits
+
+|Room Name|Free|
+|-|-|
+|[HTTP in Detail](https://tryhackme.com/jr/httpindetail)|✔️|
+|[OWASP Top 10 - 2021](https://tryhackme.com/jr/owasptop102021)|✔️|
+|[OWASP Juice Shop](https://tryhackme.com/jr/owaspjuiceshop)|✔️|
+|[Phishing](https://tryhackme.com/jr/phishingyl)|❌|
+|[Windows Privilege Escalation](https://tryhackme.com/jr/windowsprivesc20)|❌|
+|[Windows Local Persistence](https://tryhackme.com/jr/windowslocalpersistence)|❌|
+|[Active Directory Basics](https://tryhackme.com/jr/winadbasics)|✔️|
+|[Breaching Active Directory](https://tryhackme.com/jr/breachingad)|✔️|
+|[Linux Privilege Escalation](https://tryhackme.com/jr/linprivesc)|✔️|
+|[Lateral Movement and Pivoting](https://tryhackme.com/jr/lateralmovementandpivoting)|❌|
+|[Persisting Active Directory](https://tryhackme.com/jr/persistingad)|❌|
+|[Credentials Harvesting](https://tryhackme.com/jr/credharvesting)|❌|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
