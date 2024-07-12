@@ -39,6 +39,14 @@ A full list of all TryHackMe rooms in the learning paths
       * [Information Gathering and Vulnerability Scanning](#information-gathering-and-vulnerability-scanning)
       * [Attacks and Exploits](#attacks-and-exploits)
     * [Complete Beginner](#complete-beginner)
+      * [Complete Beginner Introduction]()
+      * [Linux Fundamentals]()
+      * [Network Exploitation Basics]()
+      * [Web Hacking Fundamentals]()
+      * [Cryptography]()
+      * [Windows Exploitation Basics]()
+      * [Shells and Privilege Escalation]()
+      * [Basic Computer Exploitation]()
     * [Web Fundamentals](#web-fundamentals)
   * [Intermediate](#intermediate)
     * [Jr Penetration Tester](#jr-penetration-tester)
@@ -332,6 +340,80 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Complete Beginner
+
+##### Complete Beginner Introduction
+
+|Room Name|Free|
+|-|-|
+|[Tutorial](https://tryhackme.com/jr/tutorial)|✔️|
+|[Starting Out In Cyber Sec](https://tryhackme.com/jr/startingoutincybersec)|✔️|
+|[Introductory Researching](https://tryhackme.com/jr/introtoresearch)|✔️|
+
+##### Linux Fundamentals
+
+|Room Name|Free|
+|-|-|
+|[Linux Fundamentals Part 1](https://tryhackme.com/jr/linuxfundamentalspart1)|✔️|
+|[Linux Fundamentals Part 2](https://tryhackme.com/jr/linuxfundamentalspart2)|✔️|
+|[Linux Fundamentals Part 3](https://tryhackme.com/jr/linuxfundamentalspart3)|✔️|
+
+##### Network Exploitation Basics
+
+|Room Name|Free|
+|-|-|
+|[Introductory Networking](https://tryhackme.com/jr/introtonetworking)|✔️|
+|[Nmap](https://tryhackme.com/jr/furthernmap)|✔️|
+|[Network Services](https://tryhackme.com/jr/networkservices)|✔️|
+|[Network Services 2](https://tryhackme.com/jr/networkservices2)|✔️|
+
+##### Web Hacking Fundamentals
+
+|Room Name|Free|
+|-|-|
+|[How Websites Work](https://tryhackme.com/jr/howwebsiteswork)|✔️|
+|[HTTP in Detail](https://tryhackme.com/jr/httpindetail)|✔️|
+|[Burp Suite: The Basics](https://tryhackme.com/jr/burpsuitebasics)|✔️|
+|[OWASP Top 10 - 2021](https://tryhackme.com/jr/owasptop102021)|✔️|
+|[OWASP Juice Shop](https://tryhackme.com/jr/owaspjuiceshop)|✔️|
+|[Upload Vulnerabilities](https://tryhackme.com/jr/uploadvulns)|❌|
+|[Pickle Rick](https://tryhackme.com/jr/picklerick)|✔️|
+
+##### Cryptography
+
+|Room Name|Free|
+|-|-|
+|[Hashing - Crypto 101](https://tryhackme.com/jr/hashingcrypto101)|❌|
+|[John The Ripper](https://tryhackme.com/jr/johntheripper0)|❌|
+|[Encryption - Crypto 101](https://tryhackme.com/jr/encryptioncrypto101)|✔️|
+
+##### Windows Exploitation Basics
+
+|Room Name|Free|
+|-|-|
+|[Windows Fundamentals 1](https://tryhackme.com/jr/windowsfundamentals1xbx)|✔️|
+|[Windows Fundamentals 2](https://tryhackme.com/jr/windowsfundamentals2x0x)|✔️|
+|[Active Directory Basics](https://tryhackme.com/jr/winadbasics)|✔️|
+|[Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro)|✔️|
+|[Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation)|❌|
+|[Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter)|❌|
+|[Blue](https://tryhackme.com/jr/blue)|✔️|
+
+##### Shells and Privilege Escalation
+
+|Room Name|Free|
+|-|-|
+|[What the Shell?](https://tryhackme.com/jr/introtoshells)|❌|
+|[Common Linux Privesc](https://tryhackme.com/jr/commonlinuxprivesc)|❌|
+|[Linux PrivEsc](https://tryhackme.com/jr/linuxprivesc)|✔️|
+
+##### Basic Computer Exploitation
+
+|Room Name|Free|
+|-|-|
+|[Vulnversity](https://tryhackme.com/jr/vulnversity)|✔️|
+|[Basic Pentesting](https://tryhackme.com/jr/basicpentestingjt)|✔️|
+|[Kenobi](https://tryhackme.com/jr/kenobi)|✔️|
+|[Steel Mountain](https://tryhackme.com/jr/steelmountain)|❌|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
