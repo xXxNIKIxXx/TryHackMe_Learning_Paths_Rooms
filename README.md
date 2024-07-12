@@ -20,6 +20,13 @@ A full list of all TryHackMe rooms in the learning paths
       * [Linux Fundamentals](#linux-fundamentals)
       * [Windows Fundamentals](#windows-fundamentals)
     * [SOC Level 1](#soc-level-1)
+      * [Cyber Defence Frameworks](#cyber-defence-frameworks)
+      * [Cyber Threat Intelligence](#cyber-threat-intelligence)
+      * [Network Security and Traffic Analysis](#network-security-and-traffic-analysis)
+      * [Endpoint Security Monitoring](#endpoint-security-monitoring)
+      * [Security Information and Event Management](#security-information-and-event-management)
+      * [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
+      * [Phishing](#phishing)
     * [Security Engineer](#security-engineer)
     * [CompTIA Pentest+](#comptia-pentest)
     * [Complete Beginner](#complete-beginner)
@@ -115,6 +122,93 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### SOC Level 1
+
+##### Cyber Defence Frameworks
+
+|Room Name|Free|
+|-|-|
+|[Junior Security Analyst Intro](https://tryhackme.com/jr/jrsecanalystintrouxo)|✔️|
+|[Pyramid Of Pain](https://tryhackme.com/jr/jrsecanalystintrouxo)|✔️|
+|[Cyber Kill Chain](https://tryhackme.com/jr/cyberkillchainzmt)|✔️|
+|[Unified Kill Chain](https://tryhackme.com/jr/unifiedkillchain)|✔️|
+|[Diamond Model](https://tryhackme.com/jr/diamondmodelrmuwwg42)|❌|
+|[MITRE](https://tryhackme.com/jr/mitre)|❌|
+
+##### Cyber Threat Intelligence
+
+|Room Name|Free|
+|-|-|
+|[Intro to Cyber Threat Intel](https://tryhackme.com/jr/cyberthreatintel)|✔️|
+|[Threat Intelligence Tools](https://tryhackme.com/jr/threatinteltools)|✔️|
+|[Yara](https://tryhackme.com/jr/yara)|❌|
+|[OpenCTI](https://tryhackme.com/jr/opencti)|❌|
+|[MISP](https://tryhackme.com/jr/misp)|❌|
+
+##### Network Security and Traffic Analysis
+
+|Room Name|Free|
+|-|-|
+|[Traffic Analysis Essentials](https://tryhackme.com/jr/trafficanalysisessentials)|✔️|
+|[Snort](https://tryhackme.com/jr/snort)|✔️|
+|[Snort Challenge - The Basics](https://tryhackme.com/jr/snortchallenges1)|❌|
+|[Snort Challenge - Live Attacks](https://tryhackme.com/jr/snortchallenges2)|✔️|
+|[NetworkMiner](https://tryhackme.com/jr/networkminer)|❌|
+|[Zeek](https://tryhackme.com/jr/zeekbro)|❌|
+|[Zeek Exercises](https://tryhackme.com/jr/zeekbroexercises)|❌|
+|[Brim](https://tryhackme.com/jr/brim)|❌|
+|[Wireshark: The Basics](https://tryhackme.com/jr/wiresharkthebasics)|✔️|
+|[Wireshark: Packet Operations](https://tryhackme.com/jr/wiresharkpacketoperations)|❌|
+|[Wireshark: Traffic Analysis](https://tryhackme.com/jr/wiresharktrafficanalysis)|❌|
+
+##### Endpoint Security Monitoring
+
+|Room Name|Free|
+|-|-|
+|[Intro to Endpoint Security](https://tryhackme.com/jr/introtoendpointsecurity)|✔️|
+|[Core Windows Processes](https://tryhackme.com/jr/btwindowsinternals)|❌|
+|[Sysinternals](https://tryhackme.com/jr/btsysinternalssg)|❌|
+|[Windows Event Logs](https://tryhackme.com/jr/windowseventlogs)|❌|
+|[Sysmon](https://tryhackme.com/jr/sysmon)|❌|
+|[Osquery: The Basics](https://tryhackme.com/jr/osqueryf8)|❌|
+|[Wazuh](https://tryhackme.com/jr/wazuhct)|✔️|
+
+##### Security Information and Event Management
+
+|Room Name|Free|
+|-|-|
+|[Introduction to SIEM](https://tryhackme.com/jr/introtosiem)|✔️|
+|[Investigating with ELK 101](https://tryhackme.com/jr/investigatingwithelk101)|❌|
+|[ItsyBitsy](https://tryhackme.com/jr/itsybitsy)|❌|
+|[Splunk: Basics](https://tryhackme.com/jr/splunk101)|❌|
+|[Incident handling with Splunk](https://tryhackme.com/jr/splunk201)|❌|
+|[Investigating with Splunk](https://tryhackme.com/jr/investigatingwithsplunk)|❌|
+|[Benign](https://tryhackme.com/jr/benign)|❌|
+
+##### Digital Forensics and Incident Response
+
+|Room Name|Free|
+|-|-|
+|[DFIR: An Introduction](https://tryhackme.com/jr/introductoryroomdfirmodule)|✔️|
+|[Windows Forensics 1](https://tryhackme.com/jr/windowsforensics1)|✔️|
+|[Windows Forensics 2](https://tryhackme.com/jr/windowsforensics2)|❌|
+|[Linux Forensics](https://tryhackme.com/jr/linuxforensics)|❌|
+|[Autopsy](https://tryhackme.com/jr/btautopsye0)|❌|
+|[Redline](https://tryhackme.com/jr/btredlinejoxr3d)|✔️|
+|[KAPE](https://tryhackme.com/jr/kape)|✔️|
+|[Volatility](https://tryhackme.com/jr/volatility)|❌|
+|[Velociraptor](https://tryhackme.com/jr/velociraptorhp)|❌|
+|[TheHive Project](https://tryhackme.com/jr/thehiveproject)|❌|
+|[Intro to Malware Analysis](https://tryhackme.com/jr/intromalwareanalysis)|❌|
+
+##### Phishing
+
+|Room Name|Free|
+|-|-|
+|[Phishing Analysis Fundamentals](https://tryhackme.com/jr/phishingemails1tryoe)|✔️|
+|[Phishing Emails in Action](https://tryhackme.com/jr/phishingemails2rytmuv)|✔️|
+|[Phishing Analysis Tools](https://tryhackme.com/jr/phishingemails3tryoe)|❌|
+|[Phishing Prevention](https://tryhackme.com/jr/phishingemails4gkxh)|❌|
+|[The Greenholt Phish](https://tryhackme.com/jr/phishingemails5fgjlzxc)|❌|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
