@@ -31,6 +31,8 @@ A full list of all TryHackMe rooms in the learning paths
 
 ### Easy
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### Introduction to Cyber Security
 
 ##### Introduction to Cyber Security
@@ -56,30 +58,75 @@ A full list of all TryHackMe rooms in the learning paths
 |[Intro to Digital Forensics](https://tryhackme.com/jr/introdigitalforensics)|✔️|
 |[Security Operations](https://tryhackme.com/jr/securityoperations)|❌|
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 #### Pre Security
+
+##### Introduction to Cyber Security
+
+|Room Name|Free|
+|-|-|
+|[Intro to Offensive Security](https://tryhackme.com/jr/introtooffensivesecurity)|✔️|
+|[Intro to Defensive Security](https://tryhackme.com/jr/defensivesecurity)|✔️|
+|[Careers in Cyber](https://tryhackme.com/jr/careersincyber)|✔️|
+
+##### Network Fundamentals
+
+##### How The Web Works
+
+##### Linux Fundamentals
+
+##### Windows Fundamentals
+
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### SOC Level 1
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### Security Engineer
+
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### CompTIA Pentest+
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### Complete Beginner
+
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Web Fundamentals
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 ### Intermediate
+
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Jr Penetration Tester
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### DevSecOps
+
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Cyber Defense
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### Offensive Pentesting
+
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Hard
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### SOC Level 2
 
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### Red Teaming
+
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
