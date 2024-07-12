@@ -28,6 +28,11 @@ A full list of all TryHackMe rooms in the learning paths
       * [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
       * [Phishing](#phishing)
     * [Security Engineer](#security-engineer)
+      * [Introduction to Security Engineering](#introduction-to-security-engineering)
+      * [Threats and Risks](#threats-and-risks)
+      * [Network and System Security](#network-and-system-security)
+      * [Software Security](#software-security)
+      * [Managing Incidents](#managing-incidents)
     * [CompTIA Pentest+](#comptia-pentest)
     * [Complete Beginner](#complete-beginner)
     * [Web Fundamentals](#web-fundamentals)
@@ -213,6 +218,62 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Security Engineer
+
+##### Introduction to Security Engineering
+
+|Room Name|Free|
+|-|-|
+|[Security Engineer Intro](https://tryhackme.com/jr/securityengineerintro)|✔️|
+|[Security Principles](https://tryhackme.com/jr/securityprinciples)|✔️|
+|[Introduction to Cryptography](https://tryhackme.com/jr/cryptographyintro)|✔️|
+|[Identity and Access Management](https://tryhackme.com/jr/iaaaidm)|✔️|
+
+##### Threats and Risks
+
+|Room Name|Free|
+|-|-|
+|[Governance & Regulation](https://tryhackme.com/jr/cybergovernanceregulation)|✔️|
+|[Threat Modelling](https://tryhackme.com/jr/threatmodelling)|❌|
+|[Risk Management](https://tryhackme.com/jr/seriskmanagement)|❌|
+|[Vulnerability Management](https://tryhackme.com/jr/vulnerabilitymanagementkj)|❌|
+
+##### Network and System Security
+
+|Room Name|Free|
+|-|-|
+|[Secure Network Architecture](https://tryhackme.com/jr/introtosecurityarchitecture)|✔️|
+|[Linux System Hardening](https://tryhackme.com/jr/linuxsystemhardening)|❌|
+|[Microsoft Windows Hardening](https://tryhackme.com/jr/microsoftwindowshardening)|❌|
+|[Active Directory Hardening](https://tryhackme.com/jr/activedirectoryhardening)|✔️|
+|[Network Device Hardening](https://tryhackme.com/jr/networkdevicehardening)|❌|
+|[Network Security Protocols](https://tryhackme.com/jr/networksecurityprotocols)|❌|
+|[Virtualization and Containers](https://tryhackme.com/jr/virtualizationandcontainers)|❌|
+|[Intro to Cloud Security](https://tryhackme.com/jr/introductiontocloudsecurityc6)|❌|
+|[Auditing and Monitoring](https://tryhackme.com/jr/auditingandmonitoringse)|❌|
+
+##### Software Security
+
+|Room Name|Free|
+|-|-|
+|[OWASP Top 10 - 2021](https://tryhackme.com/jr/owasptop102021)|✔️|
+|[OWASP API Security Top 10 - 1](https://tryhackme.com/jr/owaspapisecuritytop105w)|❌|
+|[OWASP API Security Top 10 - 2](https://tryhackme.com/jr/owaspapisecuritytop10d0)|❌|
+|[SSDLC](https://tryhackme.com/jr/securesdlc)|✔️|
+|[SAST](https://tryhackme.com/jr/sast)|❌|
+|[DAST](https://tryhackme.com/jr/dastzap)|❌|
+|[Weaponizing Vulnerabilities](https://tryhackme.com/jr/weaponizingvulnerabilities)|❌|
+|[Introduction to DevSecOps](https://tryhackme.com/jr/introductiontodevsecops)|✔️|
+|[Mother's Secret](https://tryhackme.com/jr/codeanalysis)|❌|
+|[Traverse](https://tryhackme.com/jr/traverse)|❌|
+
+##### Managing Incidents
+
+|Room Name|Free|
+|-|-|
+|[Intro to IR and IM](https://tryhackme.com/jr/introtoirandim)|✔️|
+|[Logging for Accountability](https://tryhackme.com/jr/loggingforaccountability)|❌|
+|[Becoming a First Responder](https://tryhackme.com/jr/becomingafirstresponder)|❌|
+|[Cyber Crisis Management](https://tryhackme.com/jr/cybercrisismanagement)|❌|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
