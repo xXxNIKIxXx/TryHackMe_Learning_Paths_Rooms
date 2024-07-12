@@ -71,11 +71,38 @@ A full list of all TryHackMe rooms in the learning paths
 
 ##### Network Fundamentals
 
+|Room Name|Free|
+|-|-|
+|[What is Networking?](https://tryhackme.com/jr/whatisnetworking)|✔️|
+|[Intro to LAN](https://tryhackme.com/r/room/introtolan)|✔️|
+|[OSI Model](https://tryhackme.com/jr/osimodelzi)|❌|
+|[Packets & Frames](https://tryhackme.com/jr/packetsframes)|❌|
+|[Extending Your Network](https://tryhackme.com/jr/extendingyournetwork)|❌|
+
 ##### How The Web Works
+
+|Room Name|Free|
+|-|-|
+|[DNS in detail](https://tryhackme.com/jr/dnsindetail)|✔️|
+|[HTTP in Detail](https://tryhackme.com/jr/httpindetail)|✔️|
+|[How Websites Work](https://tryhackme.com/jr/howwebsiteswork)|✔️|
+|[Putting it all together](https://tryhackme.com/jr/puttingitalltogether)|✔️|
 
 ##### Linux Fundamentals
 
+|Room Name|Free|
+|-|-|
+|[Linux Fundamentals Part 1](https://tryhackme.com/jr/linuxfundamentalspart1)|✔️|
+|[Linux Fundamentals Part 2](https://tryhackme.com/jr/linuxfundamentalspart2)|✔️|
+|[Linux Fundamentals Part 3](https://tryhackme.com/jr/linuxfundamentalspart3)|✔️|
+
 ##### Windows Fundamentals
+
+|Room Name|Free|
+|-|-|
+|[Windows Fundamentals 1](https://tryhackme.com/jr/windowsfundamentals1xbx)|✔️|
+|[Windows Fundamentals 2](https://tryhackme.com/jr/windowsfundamentals2x0x)|✔️|
+|[Windows Fundamentals 3](https://tryhackme.com/jr/windowsfundamentals3xzx)|✔️|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
