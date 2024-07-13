@@ -63,6 +63,11 @@ A full list of all TryHackMe rooms in the learning paths
       * [Metasploit](#metasploit)
       * [Privilege Escalation](#privilege-escalation)
     * [DevSecOps](#devsecops)
+      * [Secure Software Development](#secure-software-development)
+      * [Security of the Pipeline](#security-of-the-pipeline)
+      * [Security in the Pipeline](#security-in-the-pipeline)
+      * [Container Security](#container-security)
+      * [Infrastructure as Code](#infrastructure-as-code)
     * [Cyber Defense](#cyber-defense)
     * [Offensive Pentesting](#offensive-pentesting)
   * [Hard](#hard)
@@ -566,6 +571,49 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### DevSecOps
+
+##### Secure Software Development
+
+|Room Name|Free|
+|-|-|
+|[Introduction to DevSecOps](https://tryhackme.com/jr/introductiontodevsecops)|✔️|
+|[SDLC](https://tryhackme.com/jr/sdlc)|✔️|
+|[SSDLC](https://tryhackme.com/jr/securesdlc)|✔️|
+
+##### Security of the Pipeline
+
+|Room Name|Free|
+|-|-|
+|[Intro to Pipeline Automation](https://tryhackme.com/jr/introtopipelineautomation)|✔️|
+|[Source Code Security](https://tryhackme.com/jr/sourcecodesecurity)|❌|
+|[CI/CD and Build Security](https://tryhackme.com/jr/cicdandbuildsecurity)|❌|
+
+##### Security in the Pipeline
+
+|Room Name|Free|
+|-|-|
+|[Dependency Management](https://tryhackme.com/jr/dependencymanagement)|❌|
+|[SAST](https://tryhackme.com/jr/sast)|❌|
+|[DAST](https://tryhackme.com/jr/dastzap)|❌|
+|[Mother's Secret](https://tryhackme.com/jr/codeanalysis)|❌|
+
+##### Container Security
+
+|Room Name|Free|
+|-|-|
+|[Intro to Containerisation](https://tryhackme.com/jr/introtocontainerisation)|✔️|
+|[Intro to Docker](https://tryhackme.com/jr/introtodockerk8pdqk)|✔️|
+|[Intro to Kubernetes](https://tryhackme.com/jr/introtok8s)|❌|
+|[Container Vulnerabilities](https://tryhackme.com/jr/containervulnerabilitiesDG)|❌|
+|[Container Hardening](https://tryhackme.com/jr/containerhardening)|❌|
+
+##### Infrastructure as Code
+
+|Room Name|Free|
+|-|-|
+|[Intro to IaC](https://tryhackme.com/jr/introtoiac)|✔️|
+|[On-Premises IaC](https://tryhackme.com/jr/onpremisesiac)|❌|
+|[Cloud-based IaC](https://tryhackme.com/jr/cloudbasediac)|❌|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
