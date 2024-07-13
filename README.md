@@ -69,6 +69,12 @@ A full list of all TryHackMe rooms in the learning paths
       * [Container Security](#container-security)
       * [Infrastructure as Code](#infrastructure-as-code)
     * [Cyber Defense](#cyber-defense)
+      * [Cyber Defense Introduction](#cyber-defense-introduction)
+      * [Threat and Vulnerability Management](#threat-and-vulnerability-management)
+      * [Security Operations & Monitoring](#security-operations--monitoring)
+      * [Threat Emulation](#threat-emulation)
+      * [Incident Response and Forensics](#incident-response-and-forensics)
+      * [Malware Analysis](#malware-analysis)
     * [Offensive Pentesting](#offensive-pentesting)
   * [Hard](#hard)
     * [SOC Level 2](#soc-level-2)
@@ -108,6 +114,7 @@ A full list of all TryHackMe rooms in the learning paths
 |[Security Operations](https://tryhackme.com/jr/securityoperations)|❌|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### Pre Security
 
 ##### Introduction to Cyber Security
@@ -618,6 +625,70 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Cyber Defense
+
+##### Cyber Defense Introduction
+
+|Room Name|Free|
+|-|-|
+|[Tutorial](https://tryhackme.com/jr/tutorial)|✔️|
+|[Introductory Networking](https://tryhackme.com/jr/introtonetworking)|✔️|
+|[Network Services](https://tryhackme.com/jr/networkservices)|✔️|
+|[Network Services 2](https://tryhackme.com/jr/networkservices2)|✔️|
+|[Wireshark 101](https://tryhackme.com/jr/wireshark)|❌|
+|[Windows Fundamentals 1](https://tryhackme.com/jr/windowsfundamentals1xbx)|✔️|
+|[Active Directory Basics](https://tryhackme.com/jr/winadbasics)|✔️|
+
+##### Threat and Vulnerability Management
+
+|Room Name|Free|
+|-|-|
+|[Nessus](https://tryhackme.com/jr/rpnessusredux)|✔️|
+|[MITRE](https://tryhackme.com/jr/mitre)|❌|
+|[Yara](https://tryhackme.com/jr/yara)|❌|
+|[Zero Logon](https://tryhackme.com/jr/zer0logon)|❌|
+|[OpenVAS](https://tryhackme.com/jr/openvas)|✔️|
+|[MISP](https://tryhackme.com/jr/misp)|❌|
+
+##### Security Operations & Monitoring
+
+|Room Name|Free|
+|-|-|
+|[Core Windows Processes](https://tryhackme.com/jr/btwindowsinternals)|❌|
+|[Sysinternals](https://tryhackme.com/jr/btsysinternalssg)|❌|
+|[Windows Event Logs](https://tryhackme.com/jr/windowseventlogs)|❌|
+|[Sysmon](https://tryhackme.com/jr/sysmon)|❌|
+|[Osquery: The Basics](https://tryhackme.com/jr/osqueryf8)|❌|
+|[Splunk: Basics](https://tryhackme.com/jr/splunk101)|❌|
+|[Splunk 2](https://tryhackme.com/jr/splunk2gcd5)|❌|
+
+##### Threat Emulation
+
+|Room Name|Free|
+|-|-|
+|[Attacktive Directory](https://tryhackme.com/jr/attacktivedirectory)|✔️|
+|[Attacking Kerberos](https://tryhackme.com/jr/attackingkerberos)|❌|
+
+##### Incident Response and Forensics
+
+|Room Name|Free|
+|-|-|
+|[Volatility](https://tryhackme.com/jr/volatility)|❌|
+|[Investigating Windows](https://tryhackme.com/jr/investigatingwindows)|✔️|
+|[Windows Forensics 1](https://tryhackme.com/jr/windowsforensics1)|✔️|
+|[Windows Forensics 2](https://tryhackme.com/jr/windowsforensics2)|❌|
+|[Redline](https://tryhackme.com/jr/btredlinejoxr3d)|✔️|
+|[Autopsy](https://tryhackme.com/jr/btautopsye0)|❌|
+|[Disk Analysis & Autopsy](https://tryhackme.com/jr/autopsy2ze0)|✔️|
+
+##### Malware Analysis
+
+|Room Name|Free|
+|-|-|
+|[History of Malware](https://tryhackme.com/jr/historyofmalware)|✔️|
+|[MAL: Malware Introductory](https://tryhackme.com/jr/malmalintroductory)|✔️|
+|[MAL: Strings](https://tryhackme.com/jr/malstrings)|❌|
+|[Basic Malware RE](https://tryhackme.com/jr/basicmalwarere)|✔️|
+|[MAL: REMnux - The Redux](https://tryhackme.com/jr/malremnuxv2)|❌|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
