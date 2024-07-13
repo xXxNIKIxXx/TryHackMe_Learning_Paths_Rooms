@@ -76,6 +76,11 @@ A full list of all TryHackMe rooms in the learning paths
       * [Incident Response and Forensics](#incident-response-and-forensics)
       * [Malware Analysis](#malware-analysis)
     * [Offensive Pentesting](#offensive-pentesting)
+      * [Getting Started](#getting-started)
+      * [Advanced Exploitation](#advanced-exploitation)
+      * [Buffer Overflow Exploitation](#buffer-overflow-exploitation)
+      * [Active Directory](#active-directory)
+      * [Extra Credit](#extra-credit)
   * [Hard](#hard)
     * [SOC Level 2](#soc-level-2)
     * [Red Teaming](#red-teaming)
@@ -693,6 +698,59 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Offensive Pentesting
+
+##### Getting Started
+
+|Room Name|Free|
+|-|-|
+|[Tutorial](https://tryhackme.com/jr/tutorial)|✔️|
+|[Vulnversity](https://tryhackme.com/jr/vulnversity)|✔️|
+|[Blue](https://tryhackme.com/jr/blue)|✔️|
+|[Kenobi](https://tryhackme.com/jr/kenobi)|✔️|
+
+##### Advanced Exploitation
+
+|Room Name|Free|
+|-|-|
+|[Steel Mountain](https://tryhackme.com/jr/steelmountain)|❌|
+|[Alfred](https://tryhackme.com/jr/alfred)|❌|
+|[HackPark](https://tryhackme.com/jr/hackpark)|❌|
+|[Game Zone](https://tryhackme.com/jr/gamezone)|❌|
+|[Skynet](https://tryhackme.com/jr/skynet)|❌|
+|[Daily Bugle](https://tryhackme.com/jr/dailybugle)|✔️|
+|[Overpass 2 - Hacked](https://tryhackme.com/jr/overpass2hacked)|✔️|
+|[Relevant](https://tryhackme.com/jr/relevant)|✔️|
+|[Internal](https://tryhackme.com/jr/internal)|✔️|
+
+##### Buffer Overflow Exploitation
+
+|Room Name|Free|
+|-|-|
+|[Buffer Overflow Prep](https://tryhackme.com/jr/bufferoverflowprep)|✔️|
+|[Brainstorm](https://tryhackme.com/jr/brainstorm)|✔️|
+|[Gatekeeper](https://tryhackme.com/jr/gatekeeper)|❌|
+|[Brainpan 1](https://tryhackme.com/jr/brainpan)|✔️|
+
+##### Active Directory
+
+|Room Name|Free|
+|-|-|
+|[Active Directory Basics](https://tryhackme.com/jr/winadbasics)|✔️|
+|[Breaching Active Directory](https://tryhackme.com/jr/breachingad)|✔️|
+|[Enumerating Active Directory](https://tryhackme.com/jr/adenumeration)|✔️|
+|[Lateral Movement and Pivoting](https://tryhackme.com/jr/lateralmovementandpivoting)|❌|
+|[Exploiting Active Directory](https://tryhackme.com/jr/exploitingad)|❌|
+|[Persisting Active Directory](https://tryhackme.com/jr/persistingad)|❌|
+|[Credentials Harvesting](https://tryhackme.com/jr/credharvesting)|❌|
+
+##### Extra Credit
+
+|Room Name|Free|
+|-|-|
+|[Hacking with PowerShell](https://tryhackme.com/jr/powershell)|❌|
+|[Corp](https://tryhackme.com/jr/corp)|❌|
+|[Mr Robot CTF](https://tryhackme.com/jr/mrrobot)|✔️|
+|[Retro](https://tryhackme.com/jr/retro)|✔️|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
