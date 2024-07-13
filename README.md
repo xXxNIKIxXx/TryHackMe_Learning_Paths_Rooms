@@ -477,6 +477,84 @@ A full list of all TryHackMe rooms in the learning paths
 
 #### Jr Penetration Tester
 
+##### Introduction to Cyber Security
+
+|Room Name|Free|
+|-|-|
+|[Intro to Offensive Security](https://tryhackme.com/jr/introtooffensivesecurity)|✔️|
+|[Intro to Defensive Security](https://tryhackme.com/jr/defensivesecurity)|✔️|
+|[Careers in Cyber](https://tryhackme.com/jr/careersincyber)|✔️|
+
+##### Introduction to Pentesting
+
+|Room Name|Free|
+|-|-|
+|[Pentesting Fundamentals](https://tryhackme.com/jr/pentestingfundamentals)|✔️|
+|[Principles of Security](https://tryhackme.com/jr/principlesofsecurity)|✔️|
+
+##### Introduction to Web Hacking
+
+|Room Name|Free|
+|-|-|
+|[Walking An Application](https://tryhackme.com/jr/walkinganapplication)|✔️|
+|[Content Discovery](https://tryhackme.com/jr/contentdiscovery)|✔️|
+|[Subdomain Enumeration](https://tryhackme.com/jr/subdomainenumeration)|❌|
+|[Authentication Bypass](https://tryhackme.com/jr/authenticationbypass)|❌|
+|[IDOR](https://tryhackme.com/jr/idor)|❌|
+|[File Inclusion](https://tryhackme.com/jr/fileinc)|❌|
+|[Intro to SSRF](https://tryhackme.com/jr/ssrfqi)|❌|
+|[Intro to Cross-site Scripting](https://tryhackme.com/jr/xss)|❌|
+|[Command Injection](https://tryhackme.com/jr/oscommandinjection)|❌|
+|[SQL Injection](https://tryhackme.com/jr/sqlinjectionlm)|✔️|
+
+##### Burp Suite
+
+|Room Name|Free|
+|-|-|
+|[Burp Suite: The Basics](https://tryhackme.com/jr/burpsuitebasics)|✔️|
+|[Burp Suite: Repeater](https://tryhackme.com/jr/burpsuiterepeater)|✔️|
+|[Burp Suite: Intruder](https://tryhackme.com/jr/burpsuiteintruder)|❌|
+|[Burp Suite: Other Modules](https://tryhackme.com/jr/burpsuiteom)|❌|
+|[Burp Suite: Extensions](https://tryhackme.com/jr/burpsuiteextensions)|❌|
+
+##### Network Security
+
+|Room Name|Free|
+|-|-|
+|[Passive Reconnaissance](https://tryhackme.com/jr/passiverecon)|✔️|
+|[Active Reconnaissance](https://tryhackme.com/jr/activerecon)|✔️|
+|[Nmap Live Host Discovery](https://tryhackme.com/jr/nmap01)|✔️|
+|[Nmap Basic Port Scans](https://tryhackme.com/jr/nmap02)|❌|
+|[Nmap Advanced Port Scans](https://tryhackme.com/jr/nmap03)|❌|
+|[Nmap Post Port Scans](https://tryhackme.com/jr/nmap04)|❌|
+|[Protocols and Servers](https://tryhackme.com/jr/protocolsandservers)|❌|
+|[Protocols and Servers 2](https://tryhackme.com/jr/protocolsandservers2)|❌|
+|[Net Sec Challenge](https://tryhackme.com/jr/netsecchallenge)|❌|
+
+##### Vulnerability Research
+
+|Room Name|Free|
+|-|-|
+|[Vulnerabilities 101](https://tryhackme.com/jr/vulnerabilities101)|✔️|
+|[Exploit Vulnerabilities](https://tryhackme.com/jr/exploitingavulnerabilityv2)|❌|
+|[Vulnerability Capstone](https://tryhackme.com/jr/vulnerabilitycapstone)|❌|
+
+##### Metasploit
+
+|Room Name|Free|
+|-|-|
+|[Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro)|✔️|
+|[Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation)|❌|
+|[Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter)|❌|
+
+##### Privilege Escalation
+
+|Room Name|Free|
+|-|-|
+|[What the Shell?](https://tryhackme.com/jr/introtoshells)|❌|
+|[Linux Privilege Escalation](https://tryhackme.com/jr/linprivesc)|✔️|
+|[Windows Privilege Escalation](https://tryhackme.com/jr/windowsprivesc20)|❌|
+
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### DevSecOps
