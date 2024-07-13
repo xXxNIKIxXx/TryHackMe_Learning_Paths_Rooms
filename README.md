@@ -48,6 +48,10 @@ A full list of all TryHackMe rooms in the learning paths
       * [Shells and Privilege Escalation](#shells-and-privilege-escalation)
       * [Basic Computer Exploitation](#basic-computer-exploitation)
     * [Web Fundamentals](#web-fundamentals)
+      * [How The Web Works](#how-the-web-works)
+      * [Introduction to Web Hacking](#introduction-to-web-hacking)
+      * [Burp Suite](#burp-suite)
+      * [Web Hacking Fundamentals](#web-hacking-fundamentals)
   * [Intermediate](#intermediate)
     * [Jr Penetration Tester](#jr-penetration-tester)
     * [DevSecOps](#devsecops)
@@ -418,6 +422,52 @@ A full list of all TryHackMe rooms in the learning paths
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### Web Fundamentals
+
+##### How The Web Works
+
+|Room Name|Free|
+|-|-|
+|[DNS in detail](https://tryhackme.com/jr/dnsindetail)|✔️|
+|[HTTP in Detail](https://tryhackme.com/jr/httpindetail)|✔️|
+|[How Websites Work](https://tryhackme.com/jr/howwebsiteswork)|✔️|
+|[Putting it all together](https://tryhackme.com/jr/puttingitalltogether)|✔️|
+
+##### Introduction to Web Hacking
+
+|Room Name|Free|
+|-|-|
+|[Walking An Application](https://tryhackme.com/jr/walkinganapplication)|✔️|
+|[Content Discovery](https://tryhackme.com/jr/contentdiscovery)|✔️|
+|[Subdomain Enumeration](https://tryhackme.com/jr/subdomainenumeration)|❌|
+|[Authentication Bypass](https://tryhackme.com/jr/authenticationbypass)|❌|
+|[IDOR](https://tryhackme.com/jr/idor)|❌|
+|[File Inclusion](https://tryhackme.com/jr/fileinc)|❌|
+|[Intro to SSRF](https://tryhackme.com/jr/ssrfqi)|❌|
+|[Intro to Cross-site Scripting](https://tryhackme.com/jr/xss)|❌|
+|[Command Injection](https://tryhackme.com/jr/oscommandinjection)|❌|
+|[SQL Injection](https://tryhackme.com/jr/sqlinjectionlm)|✔️|
+
+##### Burp Suite
+
+|Room Name|Free|
+|-|-|
+|[Burp Suite: The Basics](https://tryhackme.com/jr/burpsuitebasics)|✔️|
+|[Burp Suite: Repeater](https://tryhackme.com/jr/burpsuiterepeater)|✔️|
+|[Burp Suite: Intruder](https://tryhackme.com/jr/burpsuiteintruder)|❌|
+|[Burp Suite: Other Modules](https://tryhackme.com/jr/burpsuiteom)|❌|
+|[Burp Suite: Extensions](https://tryhackme.com/jr/burpsuiteextensions)|❌|
+
+##### Web Hacking Fundamentals
+
+|Room Name|Free|
+|-|-|
+|[How Websites Work](https://tryhackme.com/jr/howwebsiteswork)|✔️|
+|[HTTP in Detail](https://tryhackme.com/jr/httpindetail)|✔️|
+|[Burp Suite: The Basics](https://tryhackme.com/jr/burpsuitebasics)|✔️|
+|[OWASP Top 10 - 2021](https://tryhackme.com/jr/owasptop102021)|✔️|
+|[OWASP Juice Shop](https://tryhackme.com/jr/owaspjuiceshop)|✔️|
+|[Upload Vulnerabilities](https://tryhackme.com/jr/uploadvulns)|❌|
+|[Pickle Rick](https://tryhackme.com/jr/picklerick)|✔️|
 
 ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
